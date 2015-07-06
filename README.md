@@ -27,7 +27,7 @@ This module supports Puppet Enterprise and Puppet versions 3.8 or newer. For old
 
 ###Beginning with tagmail
 
-1. On the agent, make sure the [`pluginsync`](https://docs.puppetlabs.com/references/latest/configuration.html#pluginsync) and [`report`](https://docs.puppetlabs.com/references/latest/configuration.html#report) are enabled. (These settings are normally enabled by default.)
+1. On the agent, make sure the [`pluginsync`](https://docs.puppetlabs.com/references/latest/configuration.html#pluginsync) and [`report`](https://docs.puppetlabs.com/references/latest/configuration.html#report) settings are enabled. (These settings are normally enabled by default.)
 
         [agent]
         report = true
