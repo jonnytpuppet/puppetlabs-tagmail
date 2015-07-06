@@ -13,7 +13,7 @@
 
 ## Module Description
 
-The tagmail module forwards Puppet log messages as email if the log messages include specific tags.
+The tagmail module forwards Puppet log messages as email if the log messages relate to resources that have been assigned specific tags.
  
 This module replaces the Puppet tagmail feature, which was removed as of Puppet Enterprise 3.8.0 and open source Puppet 4.0. This module supports Puppet Enterprise 3.8 and later and open source Puppet 4.0 and later. If you are using older versions of Puppet or Puppet Enterprise, you should use the tagmail feature included in those versions. 
 
